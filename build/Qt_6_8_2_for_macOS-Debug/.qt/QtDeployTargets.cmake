@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_YTVideoDownloader_FILE /Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/YTVideoDownloader.app/Contents/MacOS/YTVideoDownloader)
+set(__QT_DEPLOY_TARGET_YTVideoDownloader_TYPE EXECUTABLE)

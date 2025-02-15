@@ -1,0 +1,9 @@
+/Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/YTVideoDownloader.dir
+/Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/YTVideoDownloader_autogen_timestamp_deps.dir
+/Users/bernardlim/Documents/Qt/YTVideoDownloader/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/YTVideoDownloader_autogen.dir
